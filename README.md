@@ -12,6 +12,7 @@ Website of **schnellefragen**, a free all-in-one moderation bot for Discord: mod
 | Privacy | [Privacy Policy](https://schnellefragen.github.io/privacy) | [Datenschutzerklärung](https://schnellefragen.github.io/datenschutz) |
 
 - [Add the bot to Discord](https://schnellefragen.github.io/invite)
+- [All commands](https://schnellefragen.github.io/commands)
 - [Support server](https://discord.gg/schnellefragen)
 - Contact: schnellefragen@gmail.com
 
