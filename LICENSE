@@ -1,0 +1,19 @@
+Copyright (c) 2026 schnellefragen. All rights reserved.
+
+This repository contains the website of schnellefragen (https://schnellefragen.github.io),
+including its code, design, texts, logo and images.
+
+No license is granted. Visiting the website and linking to it is welcome.
+Copying, modifying, redistributing or publishing any part of this repository,
+in whole or in part, requires prior written permission from schnellefragen.
+The name "schnellefragen" and its logo may not be used for other bots,
+servers, websites or projects.
+
+Use of the schnellefragen Discord bot is governed by the Terms of Service:
+https://schnellefragen.github.io/terms
+
+Exception: the font files in the fonts/ folder (Onest, JetBrains Mono) are
+third-party works licensed under the SIL Open Font License 1.1; their license
+texts are included there (OFL-Onest.txt, OFL-JetBrainsMono.txt).
+
+Contact: schnellefragen@gmail.com
