@@ -1,0 +1,23 @@
+# schnellefragen
+
+> Free all-in-one moderation bot for Discord: moderation, auto-mod, logging, tickets, verification and welcome messages. Verified app on Discord, developed and run independently by schnellefragen since May 2026. The bot replies in English.
+
+- Add to Discord: https://discord.com/oauth2/authorize?client_id=1506754424276521091
+- Support server: https://discord.gg/schnellefragen
+- Contact: schnellefragen@gmail.com
+- Price: free, no paid tier
+- Permissions: only what its features use, no Administrator
+- Setup: run /setup, a step-by-step wizard for logs, welcome messages and verification
+- Data: settings, warnings and tickets; no message content; data of servers that remove the bot is deleted after 30 days
+
+## Pages
+
+- [Commands](https://schnellefragen.github.io/commands): all 43 commands with the Discord permission each one needs
+- [Guides](https://schnellefragen.github.io/guides): setup, moderation, auto-mod, audit logs, welcome messages, verification, tickets, outage alerts and troubleshooting
+- [Terms of Service](https://schnellefragen.github.io/terms)
+- [Privacy Policy](https://schnellefragen.github.io/privacy)
+
+## Optional
+
+- [Nutzungsbedingungen](https://schnellefragen.github.io/nutzungsbedingungen): Terms of Service in German
+- [Datenschutzerklärung](https://schnellefragen.github.io/datenschutz): Privacy Policy in German
